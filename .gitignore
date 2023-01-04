@@ -1,0 +1,15 @@
+# package directories
+node_modules
+jspm_packages
+package-lock.json
+dist
+
+# Serverless directories
+.serverless
+.dynamodb
+
+# esbuild directories
+.esbuild
+
+# tests coverage directories
+coverage
